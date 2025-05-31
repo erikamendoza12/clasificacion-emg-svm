@@ -32,5 +32,5 @@ Cada hoja debe tener 4 columnas:
 Abre el archivo `.m` en MATLAB y ejecuta el script principal.
 
 ```matlab
-run('nombre_del_script.m')
+run('clasificacion-emg-svm.m')
 
